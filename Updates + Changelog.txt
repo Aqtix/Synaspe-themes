@@ -1,0 +1,26 @@
+Hello Random!,
+
+Welcome to my Synapse theme pack. Here you can find all the latest themes I have created, I will try and do a maximum of two themes.
+From a wide range of differents things such as: Anime, Games, Cartoons, Social sites, Shows and so on. I would also really apperiate if
+you all help me with ideas with what sort of things you'd like me to add. 
+
+Anyway a little off topic here is the Updates / Changelog:
+
+Update-Notice:
+
+
+Current version: v1.0.0
+Next version: v1.0.1
+
+Version History:
+
+v1.0.0:
+
+	1) Added ThemeCreator [Files Include: Theme Templates - Basically PSD files with the sizes needed + Read me + theme.json]
+	2) Added Need for Speed: Hot Pursuit Customized theme.
+	3) Added JailBreak theme.
+
+
+I hope you enjoy using my themes please comment below for more ideas and what you think!
+
+~ Aqtix <3

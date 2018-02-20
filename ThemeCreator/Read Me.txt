@@ -1,0 +1,52 @@
+Hello Reader!,
+
+
+Welcome to ThemeCreator here, you can learn how to create your own theme.
+
+Steps to creating your own theme
+
+1) Open up ThemeSizes in there will be Photoshop PSD Files that has the sizes already done.
+2) Come up with a idea of a theme you want to design.
+3) Go to google and search images and then edit them using a photo editing software
+4) Remember to change the text color to fix the images you are using.
+
+
+Quick semi-tutorial how to change color.
+
+Important Read:
+
+- DO NOT EDIT path unless you are changing .png to .gif etc
+- When saving the image save as 1.png or 1.gif and so on.
+- Make sure you change RGB of TextColor and not Backgroud.
+
+1) Edit the theme setting found in the Synapse Folder and open with notepad or notepad++ I recommend using notepad++
+2) The text you mainly would like to change is:
+
+- Loading -- The text at the loading screen 
+- Version -- The version color
+- PointerColor -- This changes the text color when you write your own scripts // MainBodyUI Color text.
+- MinimizeButton -- The Minimize button at the top
+- CloseButton - The close button
+- ScriptBox TextColor -- Change the text color for the scriptbox
+- ClearButton TextColor
+- OpenFileButton TextColor
+- AttachButton TextColor
+- ScriptHubButton TextColor
+- FullExecButton TextColor
+- ScriptListBox TextColor
+- DescriptionBox TextColor
+- RunScriptButton TextColor
+- CloseButton TextColor
+
+Not sure how to use RBG color setup?
+
+Go to here:
+
+https://www.google.co.uk/search?q=rgb+color+picker&oq=RBG+c&aqs=chrome.1.69i57j0l5.4819j0j7&sourceid=chrome&ie=UTF-8
+
+Look for the color you want and it will tell you the numbers in RGB follow them carefully.
+
+
+Enjoy making your own customised Themes
+
+~ Aqtix <3

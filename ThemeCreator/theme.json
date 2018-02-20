@@ -1,0 +1,405 @@
+{
+  "ThemeAPI": 2,
+  "InitUI": {
+    "BackgroundImage": {
+      "Path": "theme/1.png",
+      "Online": false
+    },
+    "SynapseLogoImage": {
+      "Path": "theme/2.png",
+      "Online": false
+    },
+    "Background": {
+      "R": 35,
+      "G": 35,
+      "B": 35
+    },
+    "Loading": {
+      "Font": {
+        "Name": "Source Sans Pro Light",
+        "Size": 11.25
+      },
+      "TextColor": {
+        "R": 255,
+        "G": 255,
+        "B": 255
+      }
+    },
+    "LoadingStrings": [
+      "[ Downloading Data . . . ]",
+      "[ Boot Failure (A) ]",
+      "[ Boot Failure (B) ]",
+      "[ Parsing Data . . . ]",
+      "[ Launcher outdated. Redl! ]",
+      "[ Synapse is not updated. Check later. ]",
+      "[ Downloading Synapse . . . ]",
+      "[ Verifying Data . . . ]",
+      "[ Failed to verify installation. Retry later. ]",
+      "[ Preparing . . . ]",
+      "[ Boot Failure (C) ]",
+      "[ Ready! ]"
+    ]
+  },
+  "MainUI": {
+    "BackgroundImage": {
+      "Path": "theme/3.png",
+      "Online": false
+    },
+    "SynapseLogoImage": {
+      "Path": "theme/4.png",
+      "Online": false
+    },
+    "Background": {
+      "R": 35,
+      "G": 35,
+      "B": 35
+    },
+    "TopBox": {
+      "Enabled": true,
+      "BackColor": {
+        "R": 40,
+        "G": 40,
+        "B": 40
+      }
+    },
+    "Version": {
+      "Font": {
+        "Name": "Source Sans Pro Light",
+        "Size": 14.25
+      },
+      "TextColor": {
+        "R": 255,
+        "G": 255,
+        "B": 255
+      }
+    },
+    "VersionStrings": [
+      " - No ROBLOX process exists!",
+      " - Authenticating...",
+      " - Failed start-check!",
+      " - Not updated! Check back later!",
+      " - Not latest version! Relaunch Synapse!",
+      " - Failed to inject!",
+      " - Whitelist failed! (B-1)",
+      " - Whitelist failed! (B-2)",
+      " - Whitelist failed! (A)",
+      " - Ready!"
+    ],
+    "Editor": {
+      "Font": {
+        "Name": "Consolas",
+        "Size": 16.75
+      },
+      "BackgroundTransparent": true,
+      "BackgroundColor": {
+        "R": 35,
+        "G": 35,
+        "B": 35
+      },
+      "PointerColor": {
+        "R": 255,
+        "G": 255,
+        "B": 255
+      }
+    },
+    "MinimizeButton": {
+      "Background": {
+        "R": 40,
+        "G": 40,
+        "B": 40
+      },
+      "TextColor": {
+        "R": 255,
+        "G": 255,
+        "B": 255
+      }
+    },
+    "CloseButton": {
+      "Background": {
+        "R": 40,
+        "G": 40,
+        "B": 40
+      },
+      "TextColor": {
+        "R": 255,
+        "G": 255,
+        "B": 255
+      }
+    },
+    "ScriptBox": {
+      "Font": {
+        "Name": "Source Sans Pro",
+        "Size": 9.75
+      },
+      "BackgroundTransparent": false,
+      "Background": {
+        "R": 40,
+        "G": 40,
+        "B": 40
+      },
+      "TextColor": {
+        "R": 255,
+        "G": 255,
+        "B": 255
+      }
+    },
+    "ExecuteButton": {
+      "Image": {
+        "Path": "",
+        "Online": false
+      },
+      "Text": "Execute",
+      "BackgroundTransparent": true,
+      "Font": {
+        "Name": "Source Sans Pro Light",
+        "Size": 12.0
+      },
+      "Background": {
+        "R": 40,
+        "G": 40,
+        "B": 40
+      },
+      "TextColor": {
+        "R": 255,
+        "G": 255,
+        "B": 255
+      }
+    },
+    "ClearButton": {
+      "Image": {
+        "Path": "",
+        "Online": false
+      },
+      "Text": "Clear",
+      "BackgroundTransparent": true,
+      "Font": {
+        "Name": "Source Sans Pro Light",
+        "Size": 12.0
+      },
+      "Background": {
+        "R": 40,
+        "G": 40,
+        "B": 40
+      },
+      "TextColor": {
+        "R": 255,
+        "G": 255,
+        "B": 255
+      }
+    },
+    "OpenFileButton": {
+      "Image": {
+        "Path": "",
+        "Online": false
+      },
+      "Text": "Open File",
+      "BackgroundTransparent": true,
+      "Font": {
+        "Name": "Source Sans Pro Light",
+        "Size": 12.0
+      },
+      "Background": {
+        "R": 40,
+        "G": 40,
+        "B": 40
+      },
+      "TextColor": {
+        "R": 255,
+        "G": 255,
+        "B": 255
+      }
+    },
+    "AttachButton": {
+      "Image": {
+        "Path": "",
+        "Online": false
+      },
+      "Text": "Attach",
+      "BackgroundTransparent": true,
+      "Font": {
+        "Name": "Source Sans Pro Light",
+        "Size": 12.0
+      },
+      "Background": {
+        "R": 40,
+        "G": 40,
+        "B": 40
+      },
+      "TextColor": {
+        "R": 255,
+        "G": 255,
+        "B": 255
+      }
+    },
+    "ScriptHubButton": {
+      "Image": {
+        "Path": "",
+        "Online": false
+      },
+      "Text": "Script Hub",
+      "BackgroundTransparent": true,
+      "Font": {
+        "Name": "Source Sans Pro Light",
+        "Size": 12.0
+      },
+      "Background": {
+        "R": 40,
+        "G": 40,
+        "B": 40
+      },
+      "TextColor": {
+        "R": 255,
+        "G": 255,
+        "B": 255
+      }
+    },
+    "FullExecButton": {
+      "Image": {
+        "Path": "",
+        "Online": false
+      },
+      "TextBefore": "Disable Full Exec",
+      "TextAfter": "Enable Full Exec",
+      "BackgroundTransparent": true,
+      "Font": {
+        "Name": "Source Sans Pro Light",
+        "Size": 12.0
+      },
+      "Background": {
+        "R": 40,
+        "G": 40,
+        "B": 40
+      },
+      "TextColor": {
+        "R": 255,
+        "G": 255,
+        "B": 255
+      }
+    }
+  },
+  "ScriptHubUI": {
+    "BackgroundImage": {
+      "Path": "theme/5.png",
+      "Online": false
+    },
+    "SynapseLogoImage": {
+      "Path": "theme/6.png",
+      "Online": false
+    },
+    "Background": {
+      "R": 35,
+      "G": 35,
+      "B": 35
+    },
+    "TopBox": {
+      "Enabled": true,
+      "BackColor": {
+        "R": 40,
+        "G": 40,
+        "B": 40
+      }
+    },
+    "Version": {
+      "Font": {
+        "Name": "Source Sans Pro Light",
+        "Size": 14.25
+      },
+      "TextColor": {
+        "R": 255,
+        "G": 255,
+        "B": 255
+      }
+    },
+    "MinimizeButton": {
+      "Background": {
+        "R": 40,
+        "G": 40,
+        "B": 40
+      },
+      "TextColor": {
+        "R": 255,
+        "G": 255,
+        "B": 255
+      }
+    },
+    "ScriptListBox": {
+      "Font": {
+        "Name": "Source Sans Pro Light",
+        "Size": 11.25
+      },
+      "BackgroundTransparent": false,
+      "Background": {
+        "R": 40,
+        "G": 40,
+        "B": 40
+      },
+      "TextColor": {
+        "R": 255,
+        "G": 255,
+        "B": 255
+      }
+    },
+    "DescriptionBox": {
+      "Font": {
+        "Name": "Source Sans Pro Light",
+        "Size": 10.25
+      },
+      "BackgroundTransparent": true,
+      "Background": {
+        "R": 40,
+        "G": 40,
+        "B": 40
+      },
+      "TextColor": {
+        "R": 255,
+        "G": 255,
+        "B": 255
+      }
+    },
+    "RunScriptButton": {
+      "Image": {
+        "Path": "",
+        "Online": false
+      },
+      "TextBefore": "Run Script",
+      "TextAfter": "Ran Script!",
+      "BackgroundTransparent": true,
+      "Font": {
+        "Name": "Source Sans Pro Light",
+        "Size": 12.0
+      },
+      "Background": {
+        "R": 40,
+        "G": 40,
+        "B": 40
+      },
+      "TextColor": {
+        "R": 255,
+        "G": 255,
+        "B": 255
+      }
+    },
+    "CloseButton": {
+      "Image": {
+        "Path": "",
+        "Online": false
+      },
+      "Text": "Close",
+      "BackgroundTransparent": true,
+      "Font": {
+        "Name": "Source Sans Pro Light",
+        "Size": 12.0
+      },
+      "Background": {
+        "R": 40,
+        "G": 40,
+        "B": 40
+      },
+      "TextColor": {
+        "R": 255,
+        "G": 255,
+        "B": 255
+      }
+    }
+  }
+}
